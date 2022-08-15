@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tjsch\source\repos\expc\expc\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tjsch\source\repos\expc\expc\expch.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  expc.vcxproj -> C:\Users\tjsch\source\repos\expc\x64\Debug\expc.exe
